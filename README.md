@@ -15,9 +15,3 @@ Each project has its own folder, and within each folder, you will find further i
 ## Contributing
 
 If you wish to contribute to these projects or fix any issues, please fork the repository and submit a pull request. Your contributions are welcome!
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact me at: info@sinanozcelik.com
-
-For more: sinanozcelik.com
